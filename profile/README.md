@@ -1,6 +1,6 @@
 ## Somatic Labs
 
-Somatic Labs is a research and development group with extensive experience in the design and implementation of new blockchain systems. 
+Somatic Labs is a research and development group with extensive experience in the design and implementation of blockchain systems. 
 
 Our first product is Somatic Linux, a linux distribution created to enhance Proof of Stake network stability by improving connectivity.  Our linux distribution will help its users to:
 
